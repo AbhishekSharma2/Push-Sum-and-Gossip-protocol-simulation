@@ -1,0 +1,9 @@
+{application,project2,
+             [{applications,[kernel,stdlib,elixir,logger,gproc]},
+              {description,"project2"},
+              {modules,['Elixir.Gossip','Elixir.Project2','Elixir.Scheduler',
+                        'Elixir.Worker.Counter','Elixir.Worker.Registry',
+                        'Elixir.Worker.Supervisor','Elixir.WorkerNode']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {extra_applications,[logger,gproc]}]}.

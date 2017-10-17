@@ -1,0 +1,3 @@
+defmodule Gossip do
+    
+end
