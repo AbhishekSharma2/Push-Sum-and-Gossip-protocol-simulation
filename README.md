@@ -10,14 +10,23 @@ How to run the Code:
 [topology] – full, line, 2D, imp2D
 [algorithm] – gossip, push-sum
 
+
 The implemented topologies are:
+
  Full topology
+
  Line Topology
+
  2D Topology
+
  Imperfect 2D Topology
+
 Protocols Implemented are:
  Push-Sum
+
  Gossip
+
+
 For Gossip algorithm at command line either write “Gossip” or “gossip”. For other input it will run Push-
 sum algorithm.
 For topologies at command line write as follows:
